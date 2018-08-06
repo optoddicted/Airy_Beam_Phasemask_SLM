@@ -4,8 +4,9 @@ Created on Fri Sep 15 18:18:42 2017
 
 @author: pravin vaity
 """
-""" ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ Optical Vortex beam can be generated from Spatial Light Modulators (SLM) by uploading required phase mask. This GUI based code can be used to generate such a phase mask. If you someone find it useful and use it in their reserch work then please cite my paper: Pravin Vaity and R. P. Singh, Topological charge dependent propagation of optical vortices under quadratic phase transformation, Opt. Lett. 37, 1301-1303 (2012)
-https://doi.org/10.1364/OL.37.001301 
+""" ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+Airy beam can be generated from Spatial Light Modulators (SLM) by uploading the phase mask generating from this code.
+ 
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"""
   
 "------------------------------------------------------------------------------"
